@@ -1,7 +1,5 @@
 # Examples inspired by David Foster Wallace's # (2/21/1962 to 9/12/2008) _Infinite Jest_
 
-"I love pepperoni and sausage on my pizza",
-        "I love green olive
 
 def assembled_aoh
   assembled_aoh =
